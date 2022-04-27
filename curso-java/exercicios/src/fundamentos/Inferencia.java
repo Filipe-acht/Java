@@ -18,9 +18,15 @@ public class Inferencia {
 		
 		//c =  4.5;// O Java nao vai permitir, pois a variavel(c) esta amarrada para um tipo string
 
-		double d;
-		d = 123.65;
-		System.out.println(d);
+		double d; // variavel declarada
+		d = 123.65; // variavel inicializada
+		System.out.println(d); // usada!
+		
+		
+		/*
+		 * var e; // dará erro, pois é a partir da inicialização que o Java consegue inferir
+		 * e = 123.45;
+		*/
 				
 	}
 }
