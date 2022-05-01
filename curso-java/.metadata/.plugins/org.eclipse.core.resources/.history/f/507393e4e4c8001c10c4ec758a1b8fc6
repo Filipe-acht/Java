@@ -1,0 +1,17 @@
+package fundamentos;
+
+public class Wrapper {
+	
+	public static void main(String[] args) {
+		// um literal sempre será um primitivo
+		Byte b = 1; //byte
+		Short s = 1000; //short
+		Integer i = 10000; //int 
+		// l para primitivo e L para Class
+		Long l = 100000L;// long só converte de long para long(L)
+		
+		System.out.println(b.byteValue());
+		
+	}
+
+}
