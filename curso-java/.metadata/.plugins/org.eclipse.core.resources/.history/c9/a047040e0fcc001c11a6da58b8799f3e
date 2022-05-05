@@ -1,0 +1,13 @@
+package fundamentos;
+
+public class Potencia {
+
+	public static void main(String[] args) {
+		
+		int a = 2 + 3 - 10;
+		int b = (int) Math.pow(a, 3); // devo usar um CAST, caso queira um resultado inteiro
+		
+		System.out.println(b);
+		
+	}
+}
