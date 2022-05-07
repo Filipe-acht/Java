@@ -1,4 +1,4 @@
-package fundamentos;
+package fundamentos.exercicios;
 
 public class AreaCircunferencia {
 	

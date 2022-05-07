@@ -1,4 +1,4 @@
-package fundamentos;
+package fundamentos.exercicios;
 // usa /** + ENTER - comentário JAVADOC
 /**
  * Essa classe representa..
