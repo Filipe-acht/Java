@@ -1,9 +1,0 @@
-package fundamentos;
-
-public class PrimeiroPrograma {
-
-	public static void main(String[] args) {/*main + CTRL SPACE*/
-		System.out.println("Primeiro Programa com Java!!!"); /* comando syso + CTRL SPACE*/
-		System.out.println("Testano!!!");
-	}
-}
