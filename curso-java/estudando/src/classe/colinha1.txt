@@ -1,0 +1,16 @@
+    Classe vs Objeto
+		* primeira letra maiuscula;
+		* composta por métodos e aributos.
+	Anatomia:
+		
+			class Nome -variações-{
+				-- corpo
+				* atributos -> dados (representados por tipos: int, date, string, boolean..)
+				* comportamentos -> métodos
+			}
+			
+	Uma classe define um tipo pernsonalizado;
+	Uma classe representa uma abstração/simplificação do mundo real;
+	A partir de uma classe eu posso criar vários objetos;
+
+    ** Não preciso importar o que já está dentro do próprio pacote;

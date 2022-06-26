@@ -1,0 +1,25 @@
+Métodos
+	Anatomia:
+		* primeira letra minuscula
+		* Tipos de retorno -> void, String, Int...
+		* pode ter o mesmo nome contando que os parametros sejam diferentes
+		
+		TipoRetorno nomeMetodo(parametros de entrada){
+		
+			Algoritmo
+			
+			return -> retornar o valor
+		}
+		
+		tipo nomeMetodo(tipo1 param1, tipo2 param2, ...){
+			// corpo
+		}
+		
+		Ex.: Método somar
+			
+		int somar(int a, int b){
+			2 forma: int resultado = a + b;
+			
+			1 forma: return a + b;
+			2 forma: retunr resultado;
+		}
