@@ -1,0 +1,23 @@
+MEMBROS DE CLASSE vs INSTÂNCIA:
+	* Quando colocamos o static junto do atributo:
+		** static dia -> isso significa que o valor do atributo pertence à classe.
+		** esse valor pode ser acessado pelas instâncias, mas é uma única cópia.
+	
+	Ex.:
+		class Math
+	    __________
+		|		 |
+		| static |
+		|	PI	 |
+		|________|
+		
+	- Criando uma classe que tem um atributo estático
+	class Math {
+		static double PI = 3.14;
+	}
+	
+	Math m = new Math();
+		ou 
+	System.out.print(Math.PI);
+	
+		

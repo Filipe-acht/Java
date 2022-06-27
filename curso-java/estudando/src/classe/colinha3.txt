@@ -1,0 +1,10 @@
+CONSTRUTORES -> são métodos especiais que criam novos objetos à partir de uma classe.
+	* Construtor padrão é aquele que não recebe nenhum parâmetro de entrada e é forncido pelo java implicitamente.
+	* O que diferencia o método e o construtor, é a ausência de retorno no construtor.
+	
+	Produto p1 = new Produto();
+		^				^
+		|  				|
+		|			construtor
+		|
+	  classe
