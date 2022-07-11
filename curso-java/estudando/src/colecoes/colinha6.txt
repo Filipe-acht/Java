@@ -1,0 +1,22 @@
+colinha 6 -> COLLECTIONS:
+
+	* SET:
+		** não ordenado(por padrão);
+		** não indexado;
+		** não aceita repetição.
+		
+	* LIST:
+		** indexada;
+		** aceita repetiçãoo.
+		
+	* MAP:
+		** chave/valor;
+		** chave não aceita repetição;
+		** valor aceita repetição.
+		
+	* QUEUE(fila):
+		** implementa fila;
+		** FIRST IN / FIRST OUT (FIFO).
+		
+	* STACK(pilha):
+		** LAST IN / FIRST OUT (LIFO).
