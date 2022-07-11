@@ -19,5 +19,7 @@ public class AreaTriangulo {
 		
 		System.out.printf("Area = %.2f * %.2f / 2 = %.2f",
 								 base, altura, area);
+		
+		valores.close();
 	}
 }

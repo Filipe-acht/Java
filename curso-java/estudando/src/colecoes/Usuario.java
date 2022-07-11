@@ -15,7 +15,7 @@ public class Usuario {
 		return "Meu nome e " + this.nome +".";
 	}
 	
-	/*@Override
+	@Override
 	public int hashCode() {
 		return Objects.hash(nome);
 	}
@@ -31,6 +31,6 @@ public class Usuario {
 		Usuario other = (Usuario) obj;
 		return Objects.equals(nome, other.nome);
 	}
-	*/
+	
 	
 }
