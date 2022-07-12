@@ -1,0 +1,14 @@
+ORIETACAO A OBJETOS:
+
+	* Encapsulamento:
+		
+		** Modificadores de Acesso:
+			
+			* Private  -> (atributo/metodo)ele so pode ser acessado dentro da propria classe;
+			* Public -> qualquer classe do sistema pode acessar o atributo ou metodo;
+			* Package(default) -> so sera possivel acessar em classes que estao dentro do mesmo pacote;
+			* Protected -> pode acessar um atributo e outro pacote desde que ele seja herdado.
+			
+			** Palavras reservadas: protected, private e public (package nao tem)
+
+			

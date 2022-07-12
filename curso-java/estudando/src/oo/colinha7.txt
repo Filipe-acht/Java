@@ -1,0 +1,18 @@
+PARADIGMAS:
+	
+	* nao estruturado (GoTo);
+	_ _ _ _ _ _ _ _ _ _ _ _ _ 
+	
+	* Procedural;
+	* Funcional;
+	* Orientacao a Objetos.
+	
+	Procedural -> ator principal e a funcao
+		vs 
+	Orientacao a Objetos -> ator principal e o objeto
+	
+	
+	Procedural:
+		* formatarData( dtNascimento); -> passo determinado dado pra ser processado por essa funcao
+	Orientacao a Objetos:
+		* nascimento.formatarData(); -> o objeto tem um comportamento dentro dele.
