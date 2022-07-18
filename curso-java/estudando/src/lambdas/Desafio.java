@@ -33,7 +33,7 @@ public class Desafio {
 		
 		//5
 		Function<Double, String> formatar = 
-				preco -> ("R$" + preco).replace(",", ".");
+				preco -> ("R$" + preco).replace(".", ",");
 		
 		Produto p = new Produto("iPad", 3235, 0.13);
 		String preco = precoFinal
