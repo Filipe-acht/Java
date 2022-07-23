@@ -1,0 +1,11 @@
+TIPOS DE ERROS:
+	
+	* Erro de compilação:
+		** Ex.: sair de um .java para um .class
+	
+	* Erro em tempo de execução:
+	        \			 /
+		     \			/
+			[ THROWABLE - Lançavel] -  raiz das execeções
+			/						\
+	[ Error ]						[ Exception ]
